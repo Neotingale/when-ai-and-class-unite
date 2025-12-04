@@ -158,9 +158,10 @@ Si validamos que el uso no guiado atrofia la lógica, la institución tendrá la
 ---
 
 - Crompton, H., & Burke, D. (2023). *Artificial intelligence in higher education: the state of the field*. International Journal of Educational Technology in Higher Education, 20(1), Article 1.
-  https://doi.org/10.1186/s41239-023-00426-1
+  [https://doi.org/10.1186/s41239-023-00426-1](https://doi.org/10.1186/s41239-023-00426-1)
 - Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakçı, Ö., & Mariman, R. (2024). *Generative AI Can Harm Learning*. SSRN.
-  https://doi.org/10.2139/ssrn.4895486
+  [https://doi.org/10.2139/ssrn.4895486](https://doi.org/10.2139/ssrn.4895486)
 - Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P. (2025). *Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task*.
-  https://doi.org/10.48550/arXiv.2506.08872
-- Molina-Montalvo, H., Macías Villarreal, J. C., & Haces Atondo, G. (2025). *Impacto, percepciones y uso de ChatGPT en la formación de estudiantes de pedagogía y educación: un estudio diagnóstico en diez universidades de México*. Revista Tecnología, Ciencia y Educación, 31. https://doi.org/10.51302/tce.2025.24301
+  [https://doi.org/10.48550/arXiv.2506.08872](https://doi.org/10.48550/arXiv.2506.08872)
+- Molina-Montalvo, H., Macías Villarreal, J. C., & Haces Atondo, G. (2025). *Impacto, percepciones y uso de ChatGPT en la formación de estudiantes de pedagogía y educación: un estudio diagnóstico en diez universidades de México*. Revista Tecnología, Ciencia y Educación, 31.
+  [https://doi.org/10.51302/tce.2025.24301](https://doi.org/10.51302/tce.2025.24301)
